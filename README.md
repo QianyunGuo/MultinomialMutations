@@ -51,7 +51,7 @@ head(predict.fast_multinom(fit))
 
 ## Scripts used for the analysis in Bertl, J., Guo, Q. et al (2017)
 
--- *make data availabe on figshare and fill in here* --
+https://figshare.com/projects/MultinomialMutations/24685
 
 ## References 
 
